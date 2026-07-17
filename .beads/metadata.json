@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "n8n_automations",
+  "project_id": "f22176c1-26d6-4818-afcb-f5505e4f97db"
+}
